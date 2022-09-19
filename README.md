@@ -19,4 +19,4 @@
 19\
 0\
 ***Example Output:***\
-42
+The running tally is 42
