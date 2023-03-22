@@ -7,7 +7,7 @@
       "input": "4\r\n7\r\n-5\r\n12\r\n-2\r\n19\r\n0",
       "output": "The running tally is 42",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "-4\r\n-7\r\n5\r\n-12\r\n2\r\n-19\r\n0",
       "output": "The running tally is 7",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
